@@ -1,0 +1,7 @@
+<a-scene>
+  <a-assets>
+    <img id="homeThumbnail" src="home.jpg">
+  </a-assets>
+
+  <a-entity link="href: index.html; title: My Homepage; image: #homeThumbnail"></a-entity>
+</a-scene>
